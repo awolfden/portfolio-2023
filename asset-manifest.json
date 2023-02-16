@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio-2023/static/css/main.8dd57ed9.css",
-    "main.js": "/portfolio-2023/static/js/main.9d6e2d46.js",
-    "static/js/787.fc4969a3.chunk.js": "/portfolio-2023/static/js/787.fc4969a3.chunk.js",
-    "static/media/resume.png": "/portfolio-2023/static/media/resume.d80a9cb0c0d6b271f422.png",
-    "static/media/roxy_logo.png": "/portfolio-2023/static/media/roxy_logo.fa45e1ddcf7838cecfc0.png",
-    "static/media/wolf-logo.png": "/portfolio-2023/static/media/wolf-logo.2a87d5ffa3c8ea1db4bd.png",
-    "static/media/Syndrome.png": "/portfolio-2023/static/media/Syndrome.94ef1577417a516e6ed5.png",
-    "index.html": "/portfolio-2023/index.html",
-    "main.8dd57ed9.css.map": "/portfolio-2023/static/css/main.8dd57ed9.css.map",
-    "main.9d6e2d46.js.map": "/portfolio-2023/static/js/main.9d6e2d46.js.map",
-    "787.fc4969a3.chunk.js.map": "/portfolio-2023/static/js/787.fc4969a3.chunk.js.map"
+    "main.css": "/static/css/main.8dd57ed9.css",
+    "main.js": "/static/js/main.fea63252.js",
+    "static/js/787.fc4969a3.chunk.js": "/static/js/787.fc4969a3.chunk.js",
+    "static/media/resume.png": "/static/media/resume.d80a9cb0c0d6b271f422.png",
+    "static/media/roxy_logo.png": "/static/media/roxy_logo.fa45e1ddcf7838cecfc0.png",
+    "static/media/wolf-logo.png": "/static/media/wolf-logo.2a87d5ffa3c8ea1db4bd.png",
+    "static/media/Syndrome.png": "/static/media/Syndrome.94ef1577417a516e6ed5.png",
+    "index.html": "/index.html",
+    "main.8dd57ed9.css.map": "/static/css/main.8dd57ed9.css.map",
+    "main.fea63252.js.map": "/static/js/main.fea63252.js.map",
+    "787.fc4969a3.chunk.js.map": "/static/js/787.fc4969a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8dd57ed9.css",
-    "static/js/main.9d6e2d46.js"
+    "static/js/main.fea63252.js"
   ]
 }
