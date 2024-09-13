@@ -367,7 +367,7 @@ function Index(props) {
         <div className="flex flex-right width-100 bottom-125">
             <div className="width-50 text-left">
                 <h1>Adam Wolfman</h1>
-                <h2>Developer | Success Engineer</h2>                
+                <h2>Developer | Solutions Engineer</h2>                
                 <Legend></Legend>
             </div>
         </div>
